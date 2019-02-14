@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ex_cvlecture.iml" filepath="$PROJECT_DIR$/.idea/ex_cvlecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cvlecture_opencv_webapp/opencv_webapp_lecture/.idea/opencv_webapp_lecture.iml" filepath="$PROJECT_DIR$/../cvlecture_opencv_webapp/opencv_webapp_lecture/.idea/opencv_webapp_lecture.iml" />
     </modules>
   </component>
 </project>
