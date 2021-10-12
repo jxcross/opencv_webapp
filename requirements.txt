@@ -45,7 +45,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 numpy==1.16.0
 numpydoc==0.8.0
-opencv-python==3.1.0.5
+opencv-python==3.4.7.28
 packaging==18.0
 pandas==0.24.0
 pandocfilters==1.4.2
